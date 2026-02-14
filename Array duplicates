@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void fun(''int n,int arr[])
+void fun(int n,int arr[])
 {
 	cout<<"enter array elements:"<<endl;
 	for(int i=0;i<n;i++)
