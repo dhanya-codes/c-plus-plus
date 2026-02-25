@@ -10,8 +10,6 @@ public:
     void input()
     {
         cout<<"Enter number of elements: ";
-        cin>>n;
-
         cout<<"Enter elements of first vector:\n";
         for(int i=0;i<n;i++)
         {
